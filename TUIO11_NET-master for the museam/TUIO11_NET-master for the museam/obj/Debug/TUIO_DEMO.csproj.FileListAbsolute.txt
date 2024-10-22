@@ -1,0 +1,21 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\bin\Debug\TuioDemo.exe.config
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\bin\Debug\TuioDemo.exe
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\bin\Debug\TuioDemo.pdb
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\obj\Debug\TuioDemo.exe
+D:\hci\TUIO11_NET-master for the museam\TUIO11_NET-master for the museam\obj\Debug\TuioDemo.pdb
